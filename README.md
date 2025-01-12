@@ -1,0 +1,2 @@
+# CosmicSwordScript
+Script sword
